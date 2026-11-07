@@ -1,6 +1,6 @@
 # Moon Sweepers Launcher
 
-A Windows launcher for [Moon Sweepers](https://store.steampowered.com/app/5335510): keep a list of servers, see who's online, install and update the game, and join with one click.
+A Windows launcher for [Moon Sweepers](https://store.steampowered.com/app/5335510): keep a list of servers, see who's online, and join with one click.
 
 This repository only hosts **release builds** of the launcher. The source code is not public.
 
@@ -15,13 +15,12 @@ Get the latest version from the [Releases page](../../releases/latest) and run i
 
 - **Server list:** save servers, see their status and player count, search and sort.
 - **One-click play:** joins the server you selected. Server passwords are stored encrypted on your PC and never shown again.
-- **Game install and updates:** downloads, verifies and installs the game for you, and repairs it if files go missing.
 - **Self-updating:** the launcher checks for new versions in the background and offers a restart when one is ready.
 - **Links:** `moonsweepers://` links open the launcher and offer to add the server.
 
 ## Signing in
 
-The game download is only available to approved players. On first launch you sign in with Discord. If your account isn't approved yet, ask the server owner to add you.
+The launcher is only available to approved players. On first launch you sign in with Discord. If your account isn't approved yet, ask the server owner to add you.
 
 ## Updates
 
